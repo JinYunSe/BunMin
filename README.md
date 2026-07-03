@@ -35,7 +35,7 @@
 
 ### 현장의 목소리
 
-[교수님 인터 보러가기](https://youtu.be/rSMDnrAk380)
+[교수님 인터뷰](https://youtu.be/rSMDnrAk380)
 
 ### **✨ 번역의 민족 ✨**
 
