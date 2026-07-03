@@ -6,7 +6,7 @@
 - **개발 기간**: 2026.04.06 ~ 2026.05.21
 - **개발 인원**: 6명 (AI · Frontend · Backend)
 
-[영상 보러가기](https://youtu.be/ySSF7MIyKxU)
+[서비스 소개 영상](https://youtu.be/ySSF7MIyKxU)
 
 <br>
 
@@ -35,7 +35,7 @@
 
 ### 현장의 목소리
 
-[교수님 인터뷰](https://youtu.be/rSMDnrAk380)
+[교수님 인터뷰 영상](https://youtu.be/rSMDnrAk380)
 
 ### **✨ 번역의 민족 ✨**
 
