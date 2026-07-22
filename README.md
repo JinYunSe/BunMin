@@ -5,6 +5,18 @@
 - **기업 연계**: Aunion AI
 - **개발 기간**: 2026.04.06 ~ 2026.05.21
 - **개발 인원**: 6명 (AI · Frontend · Backend)
+- **수상**: SSAFY 자율 프로젝트 1등 · 전시발표회 전시부문 3등
+
+<div align="center">
+  <img src="img/award-autonomous-1st.png" width="380" alt="SSAFY 자율 프로젝트 1등 상장"/>
+  <img src="img/award-exhibition-3rd.png" width="380" alt="전시발표회 전시부문 3등 상장"/>
+</div>
+
+<div align="center">
+  <img src="img/exhibition-demo.jpg" width="640" alt="전시발표회 라이브 시연"/>
+  <br/>
+  <sub>전시발표회 부스 — 서비스 개요 · 주요 기능/기술 · 강의자·수강자 실시간 번역 라이브 시연 </sub>
+</div>
 
 [서비스 소개 영상](https://youtu.be/ySSF7MIyKxU)
 
@@ -86,6 +98,20 @@
 - 여러 수강자 동시 접속 지원, 개인별 음성·자막·언어 모드 독립 설정
 - 강의 종료 후 5분 grace 동안 자막 파일 다운로드 가능
 
+
+<br>
+
+<a name="screens"></a>
+
+# 🖥️ 화면
+
+<div align="center">
+  <img src="img/lecturer-view.png" width="620" alt="강의자 화면 — 강의 자료 공유와 오디오 설정"/>
+  <p><b>강의자 화면</b> — PC에 설치해 실행하며, 강의 자료를 공유하고 마이크 입력을 확인한다</p>
+  <br/>
+  <img src="img/student-view.png" width="620" alt="수강자 화면 — 원문/번역 전환과 강의 자료 목록"/>
+  <p><b>수강자 화면</b> — 브라우저로 접속해 원문·번역을 전환하고, 번역된 강의 자료를 내려받는다</p>
+</div>
 
 <br>
 
